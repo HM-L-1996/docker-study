@@ -8,7 +8,7 @@
 - ### 스터디 형식
 	- 일주일간 공부할 분량을 지정하고 실습 후 내용 및 발생한 오류 공유 
 
-### [Chapter 01 도커란?](https://github.com/HM-L-1996/docker-study/tree/main/chapter1)
+### [Chapter 01 도커란?](https://github.com/HM-L-1996/docker-study/tree/main/Chapter1)
 
 ### [Chapter 02 도커 엔진](https://github.com/HM-L-1996/docker-study/tree/main/chapter2)
 
